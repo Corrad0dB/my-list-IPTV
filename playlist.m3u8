@@ -445,6 +445,8 @@ https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 ##############################
 #CANALI ESTERI
 ##############################
+
+
 #EXTINF:-1 tvg-name="BHT 1" tvg-logo="https://i.imgur.com/LEwlEEE.png" tvg-id="BHT1.ba" tvg-chno="1" tvg-country="BA" group-title="Bosnia and Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://i.imgur.com/LEwlEEE.png" tvg-id="BHT1.ba" tvg-chno="1" tvg-country="BA" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
@@ -479,8 +481,6 @@ rtsp://185.50.56.16:554/neontelvizija
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-name="TV BPK Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" tvg-id="RTVBPK.ba" tvg-chno="5" tvg-country="BA" group-title="Bosnia and Herzegovina",TV BPK Ⓢ
 http://94.250.2.6:7374/play/a02u/index.m3u8
-
-
 
 
 
