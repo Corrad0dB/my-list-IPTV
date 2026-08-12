@@ -167,17 +167,26 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecity Valle D'Aosta" tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" tvg-country="IT" group-title="Italy",Telecity Valle D'Aosta
 https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
 
+
 # PIEMONTE
 #EXTINF:-1 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" tvg-country="IT" group-title="Italy",Telecity Piemonte
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecupole" tvg-logo="https://imgur.com" tvg-country="IT" group-title="Italy",Telecupole
+https://stream10.xdevel.com/video0s977498-2063/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRP Televisione" tvg-logo="https://imgur.com" tvg-country="IT" group-title="Italy",GRP Televisione
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+
 
 # LOMBARDIA
-#EXTINF:-1 tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-country="IT" group-title="Italy",Lombardia Tv
-https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Telecity Lombardia" tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" tvg-country="IT" group-title="Italy",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-country="IT" group-title="Italy",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" tvg-country="IT" group-title="Italy",Bergamo Tv
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+
 
 # VENETO
 #EXTINF:-1 tvg-name="Antenna 3 Veneto Nord Est" tvg-logo="https://i.imgur.com/NiVHLwp.png" tvg-id="AntennaTreNordest.it" tvg-country="IT" group-title="Italy",Antenna 3 Veneto Nord Est
@@ -197,10 +206,6 @@ https://iptv.peer.biz/live/peertv.m3u8
 # FRIULI VENEZIA GIULIA
 
 
-#EXTINF:-1 tvg-name="Telefriuli" group-title="Friuli Venezia Giulia",Telefriuli
-
-
-#EXTINF:-1 tvg-name="Udinese TV" group-title="Friuli Venezia Giulia",Udinese TV
 
 
 
@@ -242,39 +247,21 @@ https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 
 
 
-# TOSCANA
-#EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
-https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
-
 
 # LAZIO
-
-
 
 
 
 # CAMPANIA
 
 
-
-
-
-
 # ABRUZZO
-
-
-
 
 
 # MOLISE
 
 
-
-
 # BASILICATA
-
-
-
 
 
 # PUGLIA
@@ -282,24 +269,13 @@ https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 
 
-
-
-
-
 # CALABRIA
-
-
-
 
 
 # SICILIA
 
 
-
-
 # SARDEGNA
-
-
 
 
 ##############################
