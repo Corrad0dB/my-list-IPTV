@@ -18,7 +18,9 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" tvg-chno="9" tvg-country="IT" group-title="Italy",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-
+##############################
+# REGIONALI EMILIA ROMAGNA
+##############################
 #EXTINF:-1 tvg-name="Tele Tricolore" tvg-logo="https://i.imgur.com/A2XouAd.png" tvg-country="IT" group-title="Italy",Tele Tricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 #EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" tvg-country="IT" group-title="Italy",Reggio Tv
@@ -40,7 +42,9 @@ https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Icaro Tv Rimini" tvg-logo="https://i.imgur.com/z05VSSN.png" tvg-country="IT" group-title="Italy",Icaro Tv Rimini
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 
-
+##############################
+# ALTRI CANALI RAI
+##############################
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" tvg-chno="21" tvg-country="IT" group-title="Italy",Rai 4 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-id="Rai5.it" tvg-chno="23" tvg-country="IT" group-title="Italy",Rai 5 Ⓖ
@@ -50,7 +54,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" tvg-chno="25" tvg-country="IT" group-title="Italy",Rai Premium Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 
-
+##############################
+# ALTRI CANALI MEDIASET
+##############################
 #EXTINF:-1 tvg-name="20 Mediaset Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" tvg-chno="20" tvg-country="IT" group-title="Italy",20 Mediaset Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Iris Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" tvg-chno="22" tvg-country="IT" group-title="Italy",Iris Ⓖ
@@ -73,7 +79,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
 
-
+##############################
+# CANALI INTRATTENIMENTO E DISCOVERY
+##############################
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-id="Real.Time.it" tvg-chno="31" tvg-country="IT" group-title="Italy",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="Discovery.Channel.it" tvg-chno="37" tvg-country="IT" group-title="Italy",Discovery Channel
@@ -88,8 +96,27 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-id="Giallo.TV.it" tvg-chno="38" tvg-country="IT" group-title="Italy",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-id="QVC.it" tvg-chno="32" tvg-country="IT" group-title="Italy",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+##############################
+# CANALI NOTIZIE E LEGISLATIVI
+##############################
+#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-name="Sky TG24 Ⓖ" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title="Italy",Sky TG24 Ⓖ
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-name="TGCOM 24 Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" group-title="Italy",TGCOM 24 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it" tvg-chno="89" tvg-country="IT" group-title="Italy",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-name="Camera dei Deputati Ⓢ" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it" tvg-chno="90" tvg-country="IT" group-title="Italy",Camera dei Deputati Ⓢ
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
 
+##############################
+# CANALI SPORT
+##############################
 #EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="Italy",Rai Sport Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" tvg-chno="60" tvg-country="IT" group-title="Italy",Sportitalia Plus
@@ -98,14 +125,10 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 
-#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-name="Sky TG24 Ⓖ" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title="Italy",Sky TG24 Ⓖ
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-name="TGCOM 24 Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" group-title="Italy",TGCOM 24 Ⓖ
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-
+##############################
+# CANALI RELIGIOSI
+##############################
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" tvg-chno="28" tvg-country="IT" group-title="Italy",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-name="Padre Pio Tv" tvg-logo="https://i.imgur.com/7ajxEPH.png" tvg-country="IT" group-title="Italy",Padre Pio Tv
@@ -122,13 +145,9 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-id="QVC.it" tvg-chno="32" tvg-country="IT" group-title="Italy",QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" tvg-chno="62" tvg-country="IT" group-title="Italy",Donna TV Ⓢ
-https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
-
-
-
+##############################
+# CANALI D'ISTRUZIONE
+##############################
 #EXTINF:-1 tvg-name="UniNettuno University TV Ⓖ" tvg-logo="https://i.imgur.com/BOGMeio.png" tvg-id="UniNettunoUniversityTV.it" tvg-chno="701" tvg-country="IT" group-title="Italy",UniNettuno University TV Ⓖ
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" tvg-chno="57" tvg-country="IT" group-title="Italy",Rai Scuola Ⓖ
@@ -141,23 +160,35 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
 
+##############################
+# CANALI REGIONALI
+##############################
 
+# TRENTINO
 #EXTINF:-1 tvg-name="Trentino Tv" tvg-logo="https://i.imgur.com/ROKOCR2.png" tvg-country="IT" group-title="Italy",Trentino Tv
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-id="PeerTV.it" tvg-country="IT" group-title="Italy",Peer Tv Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" tvg-chno="2" tvg-country="IT" group-title="Italy",Peer TV Südtirol
 https://iptv.peer.biz/live/peertv.m3u8
+
+# LOMBARDIA
 #EXTINF:-1 tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-country="IT" group-title="Italy",Lombardia Tv
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecity Lombardia" tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" tvg-country="IT" group-title="Italy",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" tvg-country="IT" group-title="Italy",Telecity Piemonte
-https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecity Valle D'Aosta" tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" tvg-country="IT" group-title="Italy",Telecity Valle D'Aosta
-https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
 #EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" tvg-country="IT" group-title="Italy",Bergamo Tv
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+
+# PIEMONTE
+#EXTINF:-1 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" tvg-country="IT" group-title="Italy",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+
+# VALLE D'AOSTA
+#EXTINF:-1 tvg-name="Telecity Valle D'Aosta" tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" tvg-country="IT" group-title="Italy",Telecity Valle D'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+
+#VENETO
 #EXTINF:-1 tvg-name="Antenna 3 Veneto Nord Est" tvg-logo="https://i.imgur.com/NiVHLwp.png" tvg-id="AntennaTreNordest.it" tvg-country="IT" group-title="Italy",Antenna 3 Veneto Nord Est
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete Veneta" tvg-logo="https://i.imgur.com/cInhQFp.png" tvg-country="IT" group-title="Italy",Rete Veneta
@@ -165,17 +196,39 @@ http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-name="Alto Adige Tv" tvg-logo="https://i.imgur.com/S2sCFQi.png" tvg-id="AltoAdigeTV.it" tvg-country="IT" group-title="Italy",Alto Adige Tv
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" tvg-country="IT" group-title="Italy",è Tv Umbria
-https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="è Tv Marche" tvg-logo="https://i.imgur.com/vxgbFnR.png" tvg-country="IT" group-title="Italy",è Tv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" tvg-country="IT" group-title="Italy",Fano Tv
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#TOSCANA
 #EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" tvg-country="IT" group-title="Italy",Lazio Tv
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 
+#UMBRIA
+#EXTINF:-1 tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" tvg-country="IT" group-title="Italy",è Tv Umbria
+https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+
+#MARCHE
+#EXTINF:-1 tvg-name="è Tv Marche" tvg-logo="https://i.imgur.com/vxgbFnR.png" tvg-country="IT" group-title="Italy",è Tv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" tvg-country="IT" group-title="Italy",Fano Tv
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+
+
+
+
+
+
+
+
+#TOSCANA
+#EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+
+
+#LAZIO
+#EXTINF:-1 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" tvg-country="IT" group-title="Italy",Lazio Tv
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+
+#PUGLIA
 #EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" tvg-country="IT" group-title="Italy",Tele Bari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/9MhrrJK.png" tvg-id="TGNorba24.it" tvg-country="IT" group-title="Italy",TG Norba 24
@@ -184,14 +237,20 @@ https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abc Tv" tvg-logo="https://i.imgur.com/nVmIeTD.png" tvg-country="IT" group-title="Italy",Abc Tv
 https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
+
+#CALABRIA
 #EXTINF:-1 tvg-name="Calabria Uno Tv" tvg-logo="https://i.imgur.com/2TK1GQ5.png" tvg-country="IT" group-title="Italy",Calabria Uno Tv
 https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Calabria tv" tvg-logo="https://i.imgur.com/qWirucd.png" tvg-country="IT" group-title="Italy",Calabria tv
 https://64b16f23efbee.streamlock.net/calabriatv-clone/calabriatv-clone/playlist.m3u8
+
+#SARDEGNA
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" tvg-country="IT" group-title="Italy",Sardegna 1
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
-
+##############################
+# CANALI RADIO TV
+##############################
 #EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL.102.5.HD.it" tvg-chno="36" tvg-country="IT" group-title="Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Italy",Radio m2o Tv
@@ -202,6 +261,9 @@ https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
 
+##############################
+# ALTRI CANALI LOCAL MOVIES & ENTERTAINMENT
+##############################
 #EXTINF:-1 tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-id="SuperSix.it" tvg-country="IT" group-title="Italy",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Easy Tv Canale 190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" tvg-country="IT" group-title="Italy",Easy Tv Canale 190
@@ -225,138 +287,3 @@ https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ABC_News_2021.svg" group-title="USA", ABC News
-https://abcnews-streams.akamaized.net/hls/live/2023220/abcnews/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CBS_News_logo.svg" group-title="USA", CBS News
-https://cbsnews.akamaized.net/hls/live/2021150/cbsnews/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBC_News_2020.svg" group-title="USA", NBC News NOW
-https://nbcnewsnow-lh.akamaihd.net/i/nbcnewsnow_1@122201/master.m3u8
-#EXTINF:-1 tvg-id="FOX5NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_5_New_York_logo.png" group-title="USA", FOX 5 New York
-https://d2e1asnsl7br7b.cloudfront.net/FOX5/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bloomberg_Television_Logo.png" group-title="USA", Bloomberg TV
-https://liveprodusglobal.blob.core.windows.net/liveprod/US/Channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Weather_Channel_logo_2016.svg" group-title="USA", The Weather Channel
-https://weatherchannel-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="USA", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-TV/master.m3u8
-#EXTINF:-1 tvg-id="NASAISS.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="USA", NASA ISS Live
-https://ntv1.akamaized.net/hls/live/2014075/NASA-ISS/master.m3u8
-
-
-#EXTINF:-1 tvg-id="YLETV2.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Yle_TV2_logo_2012.svg" group-title="Finlandia - News", YLE TV2
-https://yletv2live-lh.akamaihd.net/i/yletv2live_1@103189/master.m3u8
-#EXTINF:-1 tvg-id="YLEAreena.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Yle_Areena_logo.svg" group-title="Finlandia - News", YLE Areena Live
-https://yleareena-lh.akamaihd.net/i/yleareena_1@103191/master.m3u8
-
-
-##############################
-# EUROPA
-##############################
-
-# 🇮🇹 ITALIA – Rai News 24
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rai_News_24_-_Logo_2013.svg" group-title="Italia - News", Rai News 24
-https://rainews-live.akamaized.net/hls/live/2023260/rainews/playlist.m3u8
-
-# 🇬🇧 REGNO UNITO – BBC News
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/BBC_News_2022.svg" group-title="UK - News", BBC News
-https://news.live.bbc.co.uk/hls/live/2000000/bbcnews/master.m3u8
-
-# 🇫🇷 FRANCIA – France 24 (FR)
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/France_24_logo.svg" group-title="Francia - News", France 24 FR
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-
-# 🇩🇪 GERMANIA – DW Deutsch
-#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Deutsche_Welle_logo.svg" group-title="Germania - News", DW Deutsch
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-# 🇪🇸 SPAGNA – RTVE Canal 24h
-#EXTINF:-1 tvg-id="Canal24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/RTVE_logo.svg" group-title="Spagna - News", RTVE Canal 24h
-https://rtvelivestream.akamaized.net/hls/live/2020001/24h/master.m3u8
-
-# 🇵🇹 PORTOGALLO – RTP Notícias
-#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/RTP_Noticias_logo.svg" group-title="Portogallo - News", RTP Notícias
-https://streaming-live.rtp.pt/liverepeater/rtpnoticias.smil/playlist.m3u8
-
-# 🇳🇱 PAESI BASSI – NOS Journaal
-#EXTINF:-1 tvg-id="NOS.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/NOS_logo.svg" group-title="Olanda - News", NOS Journaal
-https://live.nos.nl/nos/live/nosjournaal/index.m3u8
-
-# 🇸🇪 SVEZIA – SVT Nyheter
-#EXTINF:-1 tvg-id="SVTNyheter.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/SVT_Nyheter_logo.svg" group-title="Svezia - News", SVT Nyheter
-https://svt-live-cdn.akamaized.net/svt1/master.m3u8
-
-# 🇳🇴 NORVEGIA – NRK Nyheter
-#EXTINF:-1 tvg-id="NRKNyheter.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/NRK_logo_2022.svg" group-title="Norvegia - News", NRK Nyheter
-https://nrkno.akamaized.net/hls/live/2019238/nrkno/master.m3u8
-
-# 🇫🇮 FINLANDIA – YLE TV1 (News)
-#EXTINF:-1 tvg-id="YLETV1.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Yle_TV1_logo_2012.svg" group-title="Finlandia - News", YLE TV1
-https://yletv1live-lh.akamaihd.net/i/yletv1live_1@103188/master.m3u8
-
-
-##############################
-# MEDIO ORIENTE
-##############################
-
-# 🇶🇦 QATAR – Al Jazeera English
-#EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Aljazeera_eng.svg" group-title="Medio Oriente - News", Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-# 🇦🇪 EMIRATI – Dubai One News
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/DubaiOne_logo.svg" group-title="UAE - News", Dubai One News
-https://dmi.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-
-# 🇮🇱 ISRAELE – i24 News (EN)
-#EXTINF:-1 tvg-id="i24News.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/I24news_logo.svg" group-title="Israele - News", i24 News English
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551661/i24news_en/master.m3u8
-
-
-##############################
-# ASIA
-##############################
-
-# 🇯🇵 GIAPPONE – NHK World Japan
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/NHK_World-Japan_logo.svg" group-title="Giappone - News", NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8
-
-# 🇨🇳 CINA – CGTN English
-#EXTINF:-1 tvg-id="CGTN.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/CGTN_logo.svg" group-title="Cina - News", CGTN English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-# 🇮🇳 INDIA – DD News
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/DD_News_Logo.png" group-title="India - News", DD News
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409033/master.m3u8
-
-# 🇰🇷 COREA – Arirang News
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Arirang_TV_logo.svg" group-title="Corea - News", Arirang News
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1/master.m3u8
-
-
-##############################
-# AFRICA
-##############################
-
-# 🇿🇦 SUDAFRICA – SABC News
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/SABC_News_Logo.png" group-title="Sudafrica - News", SABC News
-https://sabcnews-lh.akamaihd.net/i/sabcnews_1@409133/master.m3u8
-
-# 🇪🇬 EGITTO – Nile News
-#EXTINF:-1 tvg-id="NileNews.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nile_News_logo.png" group-title="Egitto - News", Nile News
-https://livecdnh2.tvanywhere.ae/hls/nilenews/03.m3u8
-
-
-##############################
-# AMERICA LATINA
-##############################
-
-# 🇦🇷 ARGENTINA – C5N
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/C5N_logo.svg" group-title="Argentina - News", C5N
-https://c5n.stweb.tv/live/c5n.m3u8
-
-# 🇧🇷 BRASILE – Record News
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Record_News_logo.svg" group-title="Brasile - News", Record News
-https://playplusnews-lh.akamaihd.net/i/ppnews_1@472473/master.m3u8
-
-# 🇨🇱 CILE – 24 Horas
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/24horas_logo.svg" group-title="Cile - News", 24 Horas
-https://mdstrm.com/live-stream-playlist/57a4d5f4e4c0e8f70b5d0e7e.m3u8
