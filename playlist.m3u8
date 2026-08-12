@@ -171,12 +171,8 @@ https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
 # PIEMONTE
 #EXTINF:-1 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" tvg-country="IT" group-title="Italy",Telecity Piemonte
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecupole" tvg-logo="https://imgur.com" tvg-country="IT" group-title="Italy",Telecupole
-https://stream10.xdevel.com/video0s977498-2063/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="GRP Televisione" tvg-logo="https://imgur.com" tvg-country="IT" group-title="Italy",GRP Televisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-
 
 # LOMBARDIA
 
@@ -206,18 +202,10 @@ https://iptv.peer.biz/live/peertv.m3u8
 # FRIULI VENEZIA GIULIA
 
 
-
-
-
-
 # LIGURIA
 
 
-
-
 # EMILIA ROMAGNA
-
-
 
 
 # TOSCANA
@@ -225,17 +213,9 @@ https://iptv.peer.biz/live/peertv.m3u8
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 
 
-
-
-
-
-
 # UMBRIA
 #EXTINF:-1 tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" tvg-country="IT" group-title="Italy",è Tv Umbria
 https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
-
-
-
 
 
 # MARCHE
@@ -245,11 +225,7 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 
 
-
-
-
 # LAZIO
-
 
 
 # CAMPANIA
