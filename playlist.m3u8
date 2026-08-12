@@ -448,41 +448,61 @@ https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #CANALI ESTERI
 ##############################
 
-#ALBANIA
-#EXTINF:-1 tvg-name="Kanali 7 Ⓢ" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-id="Kanali7.al" tvg-country="AL" group-title="Albania",Kanali 7 Ⓢ
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" tvg-country="AL" group-title="Albania",A2 CNN Albania
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News Albania Ⓣ" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" tvg-country="AL" group-title="Albania",ABC News Albania Ⓣ
-https://www.twitch.tv/abcnewsal
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" tvg-country="AL" group-title="Albania",AlbKanale Music TV Ⓢ
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-id="AlpoTV.al" tvg-country="AL" group-title="Albania",Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" tvg-country="AL" group-title="Albania",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" tvg-country="AL" group-title="Albania",Euronews Albania Ⓨ
-https://www.youtube.com/@EuronewsAlbania/live
-#EXTINF:-1 tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" tvg-country="AL" group-title="Albania",News 24 Ⓢ
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" tvg-country="AL" group-title="Albania",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Panorama TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" tvg-country="AL" group-title="Albania",Panorama TV Ⓢ
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" tvg-country="AL" group-title="Albania",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" tvg-country="AL" group-title="Albania",Syri
-https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" tvg-country="AL" group-title="Albania",Top News Ⓣ
-https://www.twitch.tv/topnewsal
-#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" tvg-country="AL" group-title="Albania",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-id="TV7Albania.al" tvg-country="AL" group-title="Albania",TV 7 Albania
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albania",TV Apollon Ⓢ
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+
+
+#ARGENTINA
+#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="Argentina",TN Todo Noticias Ⓨ
+https://www.youtube.com/c/todonoticias/live
+#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",Encuentro Ⓨ Ⓖ
+https://www.youtube.com/user/encuentro/live
+#EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",Pakapaka Ⓨ Ⓖ
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1 tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-id="Aunar.ar" tvg-chno="22.3" tvg-country="AR" group-title="Argentina",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" tvg-chno="22.4" tvg-country="AR" group-title="Argentina",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" tvg-chno="22.5" tvg-country="AR" group-title="Argentina",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" tvg-chno="23.1" tvg-country="AR" group-title="Argentina",Televisión Pública Ⓨ
+https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" tvg-chno="24.1" tvg-country="AR" group-title="Argentina",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26 Ⓨ
+https://www.youtube.com/c/canal26/live
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1 tvg-name="IP Noticias Ⓨ" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-ip-noticias-6980-300x225.jpg" tvg-id="IPNoticias.ar" tvg-chno="24.5" tvg-country="AR" group-title="Argentina",IP Noticias Ⓨ
+https://www.youtube.com/watch?v=IxQ2-6Y4y9w
+#EXTINF:-1 tvg-name="El Destape Ⓨ" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" tvg-id="ElDestape.ar" tvg-chno="24.6" tvg-country="AR" group-title="Argentina",El Destape Ⓨ
+https://www.youtube.com/watch?v=JuskTxbUqmY
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" tvg-chno="25.3" tvg-country="AR" group-title="Argentina",LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1 tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-id="CanalE.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" tvg-chno="26.3" tvg-country="AR" group-title="Argentina",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" tvg-chno="27.2" tvg-country="AR" group-title="Argentina",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" tvg-chno="32.1" tvg-country="AR" group-title="Argentina",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-name="Barricada TV" tvg-logo="https://www.barricadatv.org/?p=23082" tvg-id="BarricadaTV.ar" tvg-chno="32.1" tvg-country="AR" group-title="Argentina",Barricada TV
+https://live-ak.vimeocdn.com/exp=1696402364~acl=%2F9f41e203-241b-4eb7-b0b5-b1839903408f%2F%2A~hmac=d4819f301510676a986bfe610b664765ee2b1a23e1e1ca3214398f949a0b2778/9f41e203-241b-4eb7-b0b5-b1839903408f/hls.m3u8?min_seconds=30
+#EXTINF:-1 tvg-name="Urbana Tevé" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" tvg-id="UrbanaTeve.ar" tvg-chno="32.2" tvg-country="AR" group-title="Argentina",Urbana Tevé
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+#EXTINF:-1 tvg-name="Comarca TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" tvg-id="ComarcaTV.ar" tvg-chno="32.3" tvg-country="AR" group-title="Argentina",Comarca TV
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cq4FFLOPxq44Qy0kxjcr_wXuRRwjKU6gJ80Tc5eWRkaz5XdeNfeq7DzoNAstinu7BLtnw7jYDANX5yCDozdlS55_kYfuDyqQhwF0JpzU75lDUv5NOuUVWBwlP0m1Bh1JMn21v_OvA_teSCI7hcIFl2DoINrr8bHnpSS8EUvXNesfdX_LcfQH-clqftQ0sCreLIbTvxI5MyL6Wnm8jGh2yg48A2c_k9YHDH6TpM3tLo-pbRrrfByqMq-IoMQREf5DV_sTfHtAzinQQU3Np309s2ScJwcBlAjzz4VJ7svuJ1UbWBBylenSTnrXQW5Vws7OqG2kcoAHHpAQN6BQCpxaXO6dE7MLg7Nq6E7961fHEVSqFCRQg2Y5orbSsEwMo7_S4s5POZSQX1tn04QDuHfLixx-aBcbctSSFmI1CNZ3YDCEZVvWHOU6SyKQcsZeJCFLA1DsxqY3DeAn6n7xpPS4pdsizKqlqsT66liv_L-48h7jGujNZPDHge0fcgUs_7b7jlKJlKv-S_s1mGgLqPEUEQ8dhn5AugB0kfjAGgcTHIP_qLPRY0M7OikuBaMxh1pUpPkVG9AX4jCg1cwCgcfa64OP9ed4pwMjoiKm0dIfytTQ8hWjwXtkv16nJDfZ3kkqaMnM8ErZG6tRw-JVy3nRooKubY7Re0Fc1RHB85_eX2NYQD88N7r-UgaiO2ax0FQ-E_IdfuwSmp5oDy6Di6pT7r_zDRN3znbV64s4i-INUg-D2Leeq4xqYhe_Zhj-3AoxXDWCB0-DCc1kFEComkNpY01YA19zEm01TKLCbdaJwdC6bQpSEoJkOCoPAMnxm7oPNlqZRbhM4TVCJ34f4Y1guzaDomcEABl4Cii2UF-OhskRUZF-SUWjWdO6z62UqZagzG2QOTr6VBH-ItT_16fLsRUaDGTVKzgYHT8XcSqTkyABKgl1cy1lYXN0LTEwjQY.m3u8
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" tvg-chno="33.1" tvg-country="AR" group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" tvg-chno="35.1" tvg-country="AR" group-title="Argentina",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" tvg-chno="34.1" tvg-country="AR" group-title="Argentina",Telefe Ⓨ
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-chno="36.1" tvg-country="AR" group-title="Argentina",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
+https://www.youtube.com/c/A24com/live
 
 
 
