@@ -223,3 +223,140 @@ https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" tvg-country="IT" group-title="Italy",Sesta Rete
 https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ABC_News_2021.svg" group-title="USA", ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023220/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CBS_News_logo.svg" group-title="USA", CBS News
+https://cbsnews.akamaized.net/hls/live/2021150/cbsnews/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBC_News_2020.svg" group-title="USA", NBC News NOW
+https://nbcnewsnow-lh.akamaihd.net/i/nbcnewsnow_1@122201/master.m3u8
+#EXTINF:-1 tvg-id="FOX5NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_5_New_York_logo.png" group-title="USA", FOX 5 New York
+https://d2e1asnsl7br7b.cloudfront.net/FOX5/master.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bloomberg_Television_Logo.png" group-title="USA", Bloomberg TV
+https://liveprodusglobal.blob.core.windows.net/liveprod/US/Channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Weather_Channel_logo_2016.svg" group-title="USA", The Weather Channel
+https://weatherchannel-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="USA", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-TV/master.m3u8
+#EXTINF:-1 tvg-id="NASAISS.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="USA", NASA ISS Live
+https://ntv1.akamaized.net/hls/live/2014075/NASA-ISS/master.m3u8
+
+
+#EXTINF:-1 tvg-id="YLETV2.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Yle_TV2_logo_2012.svg" group-title="Finlandia - News", YLE TV2
+https://yletv2live-lh.akamaihd.net/i/yletv2live_1@103189/master.m3u8
+#EXTINF:-1 tvg-id="YLEAreena.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Yle_Areena_logo.svg" group-title="Finlandia - News", YLE Areena Live
+https://yleareena-lh.akamaihd.net/i/yleareena_1@103191/master.m3u8
+
+
+##############################
+# EUROPA
+##############################
+
+# 🇮🇹 ITALIA – Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rai_News_24_-_Logo_2013.svg" group-title="Italia - News", Rai News 24
+https://rainews-live.akamaized.net/hls/live/2023260/rainews/playlist.m3u8
+
+# 🇬🇧 REGNO UNITO – BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/BBC_News_2022.svg" group-title="UK - News", BBC News
+https://news.live.bbc.co.uk/hls/live/2000000/bbcnews/master.m3u8
+
+# 🇫🇷 FRANCIA – France 24 (FR)
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/France_24_logo.svg" group-title="Francia - News", France 24 FR
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+
+# 🇩🇪 GERMANIA – DW Deutsch
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Deutsche_Welle_logo.svg" group-title="Germania - News", DW Deutsch
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+# 🇪🇸 SPAGNA – RTVE Canal 24h
+#EXTINF:-1 tvg-id="Canal24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/RTVE_logo.svg" group-title="Spagna - News", RTVE Canal 24h
+https://rtvelivestream.akamaized.net/hls/live/2020001/24h/master.m3u8
+
+# 🇵🇹 PORTOGALLO – RTP Notícias
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/RTP_Noticias_logo.svg" group-title="Portogallo - News", RTP Notícias
+https://streaming-live.rtp.pt/liverepeater/rtpnoticias.smil/playlist.m3u8
+
+# 🇳🇱 PAESI BASSI – NOS Journaal
+#EXTINF:-1 tvg-id="NOS.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/NOS_logo.svg" group-title="Olanda - News", NOS Journaal
+https://live.nos.nl/nos/live/nosjournaal/index.m3u8
+
+# 🇸🇪 SVEZIA – SVT Nyheter
+#EXTINF:-1 tvg-id="SVTNyheter.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/SVT_Nyheter_logo.svg" group-title="Svezia - News", SVT Nyheter
+https://svt-live-cdn.akamaized.net/svt1/master.m3u8
+
+# 🇳🇴 NORVEGIA – NRK Nyheter
+#EXTINF:-1 tvg-id="NRKNyheter.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/NRK_logo_2022.svg" group-title="Norvegia - News", NRK Nyheter
+https://nrkno.akamaized.net/hls/live/2019238/nrkno/master.m3u8
+
+# 🇫🇮 FINLANDIA – YLE TV1 (News)
+#EXTINF:-1 tvg-id="YLETV1.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Yle_TV1_logo_2012.svg" group-title="Finlandia - News", YLE TV1
+https://yletv1live-lh.akamaihd.net/i/yletv1live_1@103188/master.m3u8
+
+
+##############################
+# MEDIO ORIENTE
+##############################
+
+# 🇶🇦 QATAR – Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Aljazeera_eng.svg" group-title="Medio Oriente - News", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+# 🇦🇪 EMIRATI – Dubai One News
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/DubaiOne_logo.svg" group-title="UAE - News", Dubai One News
+https://dmi.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+# 🇮🇱 ISRAELE – i24 News (EN)
+#EXTINF:-1 tvg-id="i24News.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/I24news_logo.svg" group-title="Israele - News", i24 News English
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551661/i24news_en/master.m3u8
+
+
+##############################
+# ASIA
+##############################
+
+# 🇯🇵 GIAPPONE – NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/NHK_World-Japan_logo.svg" group-title="Giappone - News", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8
+
+# 🇨🇳 CINA – CGTN English
+#EXTINF:-1 tvg-id="CGTN.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/CGTN_logo.svg" group-title="Cina - News", CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+# 🇮🇳 INDIA – DD News
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/DD_News_Logo.png" group-title="India - News", DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409033/master.m3u8
+
+# 🇰🇷 COREA – Arirang News
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Arirang_TV_logo.svg" group-title="Corea - News", Arirang News
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1/master.m3u8
+
+
+##############################
+# AFRICA
+##############################
+
+# 🇿🇦 SUDAFRICA – SABC News
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/SABC_News_Logo.png" group-title="Sudafrica - News", SABC News
+https://sabcnews-lh.akamaihd.net/i/sabcnews_1@409133/master.m3u8
+
+# 🇪🇬 EGITTO – Nile News
+#EXTINF:-1 tvg-id="NileNews.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nile_News_logo.png" group-title="Egitto - News", Nile News
+https://livecdnh2.tvanywhere.ae/hls/nilenews/03.m3u8
+
+
+##############################
+# AMERICA LATINA
+##############################
+
+# 🇦🇷 ARGENTINA – C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/C5N_logo.svg" group-title="Argentina - News", C5N
+https://c5n.stweb.tv/live/c5n.m3u8
+
+# 🇧🇷 BRASILE – Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Record_News_logo.svg" group-title="Brasile - News", Record News
+https://playplusnews-lh.akamaihd.net/i/ppnews_1@472473/master.m3u8
+
+# 🇨🇱 CILE – 24 Horas
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/24horas_logo.svg" group-title="Cile - News", 24 Horas
+https://mdstrm.com/live-stream-playlist/57a4d5f4e4c0e8f70b5d0e7e.m3u8
