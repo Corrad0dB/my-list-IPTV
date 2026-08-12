@@ -105,10 +105,10 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 ##############################
 # CANALI NOTIZIARI E LEGISLATIVI
 ##############################
-#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Sky TG24 Ⓖ" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title="Italy",Sky TG24 Ⓖ
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" group-title="Italy",TGCOM 24 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it" tvg-chno="89" tvg-country="IT" group-title="Italy",Senato TV
@@ -194,24 +194,74 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 
 
-#FRIULI VENEZIA GIULIA
+# FRIULI VENEZIA GIULIA
+#EXTINF:-1 tvg-name="Telequattro" group-title="Friuli Venezia Giulia",Telequattro
+http://URL_TELEQUATTRO
+
+#EXTINF:-1 tvg-name="Telefriuli" group-title="Friuli Venezia Giulia",Telefriuli
+http://URL_TELEFRIULI
+
+#EXTINF:-1 tvg-name="Udinese TV" group-title="Friuli Venezia Giulia",Udinese TV
+http://URL_UDINESE_TV
+
 
 
 # LIGURIA
+#EXTINF:-1 tvg-name="Primocanale" group-title="Liguria",Primocanale
+http://URL_PRIMOCANALE
+
+#EXTINF:-1 tvg-name="Telenord" group-title="Liguria",Telenord
+http://URL_TELENORD
+
+#EXTINF:-1 tvg-name="TeleGenova" group-title="Liguria",TeleGenova
+http://URL_TELEGENOVA
+
 
 
 # EMILIA ROMAGNA
+#EXTINF:-1 tvg-name="ÈTV Rete 7" group-title="Emilia Romagna",ÈTV Rete 7
+http://URL_ETV
+
+#EXTINF:-1 tvg-name="TRC Modena" group-title="Emilia Romagna",TRC Modena
+http://URL_TRC_MODENA
+
+#EXTINF:-1 tvg-name="TeleReggio" group-title="Emilia Romagna",TeleReggio
+http://URL_TELEREGGIO
+
 
 
 # TOSCANA
 #EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
-#EXTINF:-1 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" tvg-country="IT" group-title="Italy",Lazio Tv
-https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 7" group-title="Toscana",Italia 7
+http://URL_ITALIA7
+
+#EXTINF:-1 tvg-name="Toscana TV" group-title="Toscana",Toscana TV
+http://URL_TOSCANA_TV
+
+#EXTINF:-1 tvg-name="RTV38" group-title="Toscana",RTV38
+http://URL_RTV38
+
+
+
+
 
 # UMBRIA
 #EXTINF:-1 tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" tvg-country="IT" group-title="Italy",è Tv Umbria
 https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRG" group-title="Umbria",TRG
+http://URL_TRG
+
+#EXTINF:-1 tvg-name="Umbria TV" group-title="Umbria",Umbria TV
+http://URL_UMBRIA_TV
+
+#EXTINF:-1 tvg-name="Retesole Umbria" group-title="Umbria",Retesole Umbria
+http://URL_RETESOLE_UMBRIA
+
+
+
 
 # MARCHE
 #EXTINF:-1 tvg-name="è Tv Marche" tvg-logo="https://i.imgur.com/vxgbFnR.png" tvg-country="IT" group-title="Italy",è Tv Marche
@@ -219,39 +269,130 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" tvg-country="IT" group-title="Italy",Fano Tv
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 
+
+
+
 # TOSCANA
 #EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 
 
 # LAZIO
+#EXTINF:-1 tvg-name="TeleRoma 56" group-title="Lazio",TeleRoma 56
+http://URL_TELEROMA56
+
+#EXTINF:-1 tvg-name="Gold TV" group-title="Lazio",Gold TV
+http://URL_GOLDTV
+
+#EXTINF:-1 tvg-name="Retesole Lazio" group-title="Lazio",Retesole Lazio
+http://URL_RETESOLE_LAZIO
+
+
 
 
 # CAMPANIA
+#EXTINF:-1 tvg-name="Telecapri" group-title="Campania",Telecapri
+http://URL_TELECAPRI
+
+#EXTINF:-1 tvg-name="Canale 21 Campania" group-title="Campania",Canale 21 Campania
+http://URL_CANALE21
+
+#EXTINF:-1 tvg-name="Telecolore" group-title="Campania",Telecolore
+http://URL_TELECOLORE
+
+
 
 
 # ABRUZZO
+#EXTINF:-1 tvg-name="Rete8" group-title="Abruzzo",Rete8
+http://URL_RETE8
+
+#EXTINF:-1 tvg-name="Telemax" group-title="Abruzzo",Telemax
+http://URL_TELEMAX
+
+#EXTINF:-1 tvg-name="AB Channel" group-title="Abruzzo",AB Channel
+http://URL_ABCHANNEL
+
+
 
 
 # MOLISE
+#EXTINF:-1 tvg-name="Telemolise" group-title="Molise",Telemolise
+http://URL_TELEMOLISE
+
+#EXTINF:-1 tvg-name="TLA Molise" group-title="Molise",TLA Molise
+http://URL_TLA_MOLISE
+
+#EXTINF:-1 tvg-name="ReteMia Molise" group-title="Molise",ReteMia Molise
+http://URL_RETEMIA_MOLISE
+
 
 
 
 # BASILICATA
+#EXTINF:-1 tvg-name="TRM Network" group-title="Basilicata",TRM Network
+http://URL_TRM
+
+#EXTINF:-1 tvg-name="La Nuova TV" group-title="Basilicata",La Nuova TV
+http://URL_LANUOVATV
+
+#EXTINF:-1 tvg-name="Lucania TV" group-title="Basilicata",Lucania TV
+http://URL_LUCANIA_TV
+
+
 
 
 # PUGLIA
 #EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" tvg-country="IT" group-title="Italy",Tele Bari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TeleNorba" group-title="Puglia",TeleNorba
+http://URL_TELENORBA
+
+#EXTINF:-1 tvg-name="Telerama" group-title="Puglia",Telerama
+http://URL_TELERAMA
+
+#EXTINF:-1 tvg-name="TeleRegione" group-title="Puglia",TeleRegione
+http://URL_TELEREGIONE
+
+
+
 
 # CALABRIA
+#EXTINF:-1 tvg-name="Calabria TV" group-title="Calabria",Calabria TV
+http://URL_CALABRIA_TV
+
+#EXTINF:-1 tvg-name="TeleMia" group-title="Calabria",TeleMia
+http://URL_TELEMIA
+
+#EXTINF:-1 tvg-name="RTC Telecalabria" group-title="Calabria",RTC Telecalabria
+http://URL_RTC
+
+
 
 
 # SICILIA
 
+#EXTINF:-1 tvg-name="Telecolor" group-title="Sicilia",Telecolor
+http://URL_TELECOLOR
+
+#EXTINF:-1 tvg-name="Antenna Sicilia" group-title="Sicilia",Antenna Sicilia
+http://URL_ANTENNA_SICILIA
+
+#EXTINF:-1 tvg-name="Video Regione" group-title="Sicilia",Video Regione
+http://URL_VIDEO_REGIONE
+
 
 # SARDEGNA
+
+#EXTINF:-1 tvg-name="Videolina" group-title="Sardegna",Videolina
+http://URL_VIDEOLINA
+
+#EXTINF:-1 tvg-name="TeleSardegna" group-title="Sardegna",TeleSardegna
+http://URL_TELESARDEGNA
+
+#EXTINF:-1 tvg-name="Sardegna 1" group-title="Sardegna",Sardegna 1
+http://URL_SARDEGNA1
 
 
 ##############################
