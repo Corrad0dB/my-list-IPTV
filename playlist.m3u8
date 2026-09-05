@@ -75,7 +75,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Cielo Ⓖ" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="cielo.it" tvg-chno="26" tvg-country="IT" group-title="Mediaset",Cielo Ⓖ
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-name="27 Twentyseven Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" tvg-chno="27" tvg-country="IT" group-title="Altri canali Mediaset",27 Twentyseven Ⓖ
+#EXTINF:-1 tvg-name="27 Twentyseven Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" tvg-chno="27" tvg-country="IT" group-title="Mediaset",27 Twentyseven Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="La 5 Ⓖ" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-id="La5.it" tvg-chno="30" tvg-country="IT" group-title="Mediaset",La 5 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -119,7 +119,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 ##############################
 #CANALI SPORT
 ##############################
-#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="RAI",Rai Sport Ⓖ
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="Sport",Rai Sport Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" tvg-chno="60" tvg-country="IT" group-title="Sport",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
